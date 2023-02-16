@@ -1,0 +1,20 @@
+.headline{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 40px;
+}
+h2.headline{
+    color: grey;
+  font-family: Verdana
+}
+.prop1{
+    color: dimgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.text{
+    font-style: italic;
+}
+.list{
+    color: #200D93;
+    font-size: 16px;
